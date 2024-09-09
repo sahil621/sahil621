@@ -1,4 +1,4 @@
-[![MasterHead]([https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif))
+[![MasterHead](https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif)
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">AN AI & ML learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
