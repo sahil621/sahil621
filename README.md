@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">AN AI & ML learner</h3>
+<h3 align="center"> AI & ML learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 - 🌱 I’m currently learning **react & dsa**
