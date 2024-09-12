@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react & dsa**
 
-- 📫 How to reach me **sahilraina5527@gmail.com**
+- 📫 How to reach me **sahilraina2003@gmail.com**
 
 - ⚡ Fun fact **I don't think I am funny**
 
