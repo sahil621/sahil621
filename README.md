@@ -2,7 +2,7 @@
 <h3 align="center"> AI & ML learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
-- 🌱 I’m currently learning **CompetitiveCODING**
+- 🌱 I’m currently learning **Competitive CODING**
 
 - 📫 How to reach me **sahilraina2003@gmail.com**
 
