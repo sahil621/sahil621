@@ -45,23 +45,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil621&" alt="sahil621" /></p>
 
 
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
-
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
