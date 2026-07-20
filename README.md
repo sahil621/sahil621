@@ -287,7 +287,7 @@ Solutions to coding problems and algorithms.
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache=false"/>
 
 </p>
 
