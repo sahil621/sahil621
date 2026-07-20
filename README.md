@@ -135,15 +135,16 @@ fun_fact:
 ---
 
 # 🧠 Coding Profile
+<a href="https://leetcode.com/u/sahil621/" target="_blank">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60"/>
+
 
 
 ## 💻 LeetCode Journey
 
 <p align="center">
 
-<a href="https://leetcode.com/u/sahil621/" target="_blank">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60"/>
 
 </a>
 
