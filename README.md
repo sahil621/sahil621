@@ -21,7 +21,8 @@
 
 
 <img align="right"
-width="40"
+length = "300"
+width="400"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
