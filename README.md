@@ -139,10 +139,13 @@ fun_fact:
 
 ## 💻 LeetCode Journey
 
-
 <p align="center">
 
-<img src="<img src="https://leetcard.jacoblin.cool/sahil621?theme=dark&font=JetBrains%20Mono&ext=contest"/>?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<a href="https://leetcode.com/u/sahil621/" target="_blank">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="60"/>
+
+</a>
 
 </p>
 
