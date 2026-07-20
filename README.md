@@ -144,6 +144,7 @@ fun_fact:
 ## 💻 LeetCode Journey
 
 <p align="center">
+<img src="https://leetcard.jacoblin.cool/sahil621?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 
 </a>
