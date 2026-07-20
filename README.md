@@ -283,11 +283,11 @@ Solutions to coding problems and algorithms.
 
 ---
 
-# 💭 Developer Mindset
+# 🧠 Developer Mindset
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&cache=false"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
