@@ -19,9 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=sahil621&style=for-the-badge&color=00ffff"/>
 </p>
 
-<img align="right" width="400"
-src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" width="400" src="./assets/coding.gif">
 <br>
 
 
