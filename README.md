@@ -287,7 +287,7 @@ Solutions to coding problems and algorithms.
 
 <p align="center">
 
-> "You have power over your mind — not outside events. Realize this, and you will find strength."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </p>
 
