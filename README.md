@@ -177,12 +177,14 @@ src="https://streak-stats.demolab.com?user=sahil621&theme=tokyonight&hide_border
 
 ---
 
-# 🐍 Contribution Snake
-
+# 🐍 Contribution Universe
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sahil621/sahil621/output/github-contribution-grid-snake-dark.svg"/>
+<img 
+width="100%"
+src="https://raw.githubusercontent.com/sahil621/sahil621/output/github-contribution-grid-snake-dark.svg"/>
+
 
 </p>
 
