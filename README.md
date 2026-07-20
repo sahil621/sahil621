@@ -19,13 +19,11 @@
 <img src="https://komarev.com/ghpvc/?username=sahil621&style=for-the-badge&color=00ffff"/>
 </p>
 
-<p
 
 <img align="right"
-width="300"
+width="500"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-</p>
 
 
 <br>
