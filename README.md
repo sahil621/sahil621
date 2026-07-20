@@ -142,7 +142,7 @@ fun_fact:
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<img src="https://leetcode.com/u/sahil621/?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 </p>
 
