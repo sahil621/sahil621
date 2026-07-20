@@ -6,6 +6,9 @@
   🚀 AI/ML Explorer | Competitive Programmer | C++ Developer
 </h3>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/sahil621/sahil621/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Explorer+🤖;Machine+Learning+Enthusiast;Competitive+Programming+%7C+DSA;Building+Ideas+Into+Reality+🚀;Code.+Learn.+Create.+Repeat."/>
